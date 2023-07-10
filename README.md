@@ -1,16 +1,16 @@
-### Hi there 👋
+# G'day! I'm Oday. 😃
 
-<!--
-**eng-oday/eng-oday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/oday-mohammed-69843617a/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.facebook.com/oday.diego">
+<img src="https://img.shields.io/badge/Facebook%231DA1F2" alt="Facebook" /></a> 
+<a href="https://www.instagram.com/notoday.02/">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) & [macOS](https://www.apple.com/macos/).
+* 📸 Currently at [3rabAppLTD](https://github.com/instagram) .
+* 🌱 I’m currently learning **Combine (Raywenderlich Book) , SwiftUI**
+* 🎤 Also loves singing and karaoke.
+* 😁 Nice to meet you!
