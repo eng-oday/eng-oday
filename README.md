@@ -14,8 +14,7 @@
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/).
-* 📸 Currently at [3rabAppLTD] .
-* 💻 Currently Working on [Kitaba (Photo Ediotr App)](https://apps.apple.com/ag/app/%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/id958075714).
+* 📸 Currently at [Qorrect] .
 * 🌱 I’m currently learning **UnitTest, SwiftUI**
 * ⚽️ Also love football.
 * 😁 Nice to meet you!
