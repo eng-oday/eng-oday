@@ -14,7 +14,6 @@
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/).
-* 📸 Currently at [Qorrect] .
-* 🌱 I’m currently learning **UnitTest, SwiftUI**
+* 📸 Currently at [ِEstarta Solutions] .
 * ⚽️ Also love football.
 * 😁 Nice to meet you!
